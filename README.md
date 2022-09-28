@@ -6,6 +6,8 @@ HTML5 <br>
 CSS3 <br>
 Java Script
 
+<a href="https://deniskrav4enko.github.io/aim_trainer/">Demo</a>
+
 <h3>Screenshots:</h3>
 
 ![image](https://user-images.githubusercontent.com/70015959/192153811-8e2f34b7-17eb-4e13-b29e-38907f7e6906.png)
